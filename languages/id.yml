@@ -9,6 +9,7 @@ nav:
   next: 'Berikutnya'
   prev: 'Sebelumnya'
 widget:
+  recent_comments: 'komentar terbaru'
   recents: 'terbaru'
   archives: 'arsip'
   categories: 'kategori'
