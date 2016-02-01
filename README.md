@@ -1,5 +1,12 @@
 #Icarus
 
+### Modify by [luofeilong](https://github.com/luofeilong), you can preview in [my blog](http://luofeilong.github.io/)
+1. fork from [JamesPan](https://github.com/JamesPan/hexo-theme-icarus.git), not [ppoffice](https://github.com/ppoffice/hexo-theme-icarus.git)
+2. add Duoshuo widget(recent comment and recent vistors)
+3. modify 'thread_key' from 'post.permalink' to 'post.path'
+
+
+---
 ### The blog theme you may fall in love with, coming to Hexo. [Preview](http://blog.jamespan.me)
 ![](http://ww2.sinaimg.cn/large/e724cbefgw1esf3s102ppj20l80lkgrf.jpg "")
 
