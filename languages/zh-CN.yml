@@ -9,6 +9,7 @@ nav:
   next: '下一页'
   prev: '上一页'
 widget:
+  recent_vistors: '最近访客'
   recent_comments: '最近评论'
   recents: '最新文章'
   archives: '归档'

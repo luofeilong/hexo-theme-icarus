@@ -9,6 +9,7 @@ nav:
   next: 'Next'
   prev: 'Prev'
 widget:
+  recent_vistors: 'recent vistors'
   recent_comments: 'recent comments'
   recents: 'recents'
   archives: 'archives'
