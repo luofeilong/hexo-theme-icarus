@@ -1,10 +1,12 @@
 index:
   home: '主页'
-  search: '搜索'
-  archive: '归档'
+  Search: '搜索'
+  Archives: '归档'
   category: '分类'
   uncategorized: '未分类'
-  tag: '标签'
+  Tags: '标签'
+  About: '关于'
+
 nav:
   next: '下一页'
   prev: '上一页'
@@ -21,6 +23,7 @@ article:
   comments: '评论'
   share: '分享到'
   hits: '次访问'
+  Read more: '阅读全文'
 profile:
   follow: '关注我'
   post: '文章'

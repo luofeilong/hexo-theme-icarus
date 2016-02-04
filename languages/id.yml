@@ -1,10 +1,11 @@
 index:
   home: 'home'
-  search: 'Cari'
-  archive: 'arsip'
+  Search: 'Cari'
+  Archive: 'arsip'
   category: 'kategori'
   uncategorized: 'tanpa kategori'
-  tag: 'tag'
+  Tags: 'tag'
+
 nav:
   next: 'Berikutnya'
   prev: 'Sebelumnya'
@@ -20,6 +21,7 @@ widget:
 article:
   comments: 'Komentar'
   share: 'Bagikan'
+  Read more: 'Baca lebih banyak'
 profile:
   follow: 'IKUTI'
   post: 'pos'

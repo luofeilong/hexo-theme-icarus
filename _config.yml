@@ -30,15 +30,14 @@ fb_app_id:
 
 # Contacts
 contacts:
-  github: http://github.com/JamesPan
-  weibo: http://weibo.com/panjiabang
-  twitter: https://twitter.com/_JamesPan_
-  # linkedin: https://cn.linkedin.com/pub/jiabang-pan/50/bb4/86
-  telegram: https://telegram.me/jamespan
+  github: http://github.com/luofeilong
+  weibo: http://weibo.com/luofeilong
+  twitter: https://twitter.com/luofeilong
+  telegram: https://telegram.me/luofeilong
   rss: /atom.xml
 
 #wechat: //i.imgur.com/JDKdlapm.jpg
 
-cnzz: 1000543904
+cnzz: 123456789
 recruit: true
 default_thumbnail: //i.imgur.com/w2aNvOls.jpg

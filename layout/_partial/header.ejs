@@ -4,7 +4,7 @@
       <a href="<%- url_for() %>" id="logo"><span class="site-title"><%= config.title %></span></a>
       <nav id="main-nav">
         <% for (var i in theme.menu){ %>
-          <a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a>
+          <a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= __('index.'+i) %></a>
         <% } %>
       </nav>
       <% if(theme.profile) { %>
@@ -14,9 +14,6 @@
         </div>
       </nav>
       <% } %>
-      <div id="search-form-wrap">
-        <%- search_form({button: ' '}) %>
-      </div>
     </div>
   </div>
   <div id="main-nav-mobile" class="header-sub header-inner">

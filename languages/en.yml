@@ -1,10 +1,12 @@
 index:
   home: 'home'
-  search: 'Search'
-  archive: 'archive'
+  Search: 'Search'
+  Archive: 'archive'
   category: 'category'
   uncategorized: 'uncategorized'
-  tag: 'tag'
+  Tags: 'tag'
+  About: 'about'
+
 nav:
   next: 'Next'
   prev: 'Prev'
